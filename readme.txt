@@ -5,3 +5,4 @@ Git tracks changes of files.
 fifth:test sys.
 sixth:dev branch.
 seventh:creating a new branch is quick and simple.
+eigth:management.
