@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 fifth:test sys.
 sixth:dev branch.
+seventh:creating a new branch id quick AND simple.
